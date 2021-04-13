@@ -64,6 +64,71 @@
         "FlagUrl": "https://www.countryflags.io/it/flat/16.png",
         "ColorHex": "#406389",
         "Points": "2"
+      },
+      {
+        "Position": 6,
+        "ID": "AMR",
+        "TeamName": "Aston Martin Cognizant F1 Team",
+        "TeamNameShort": "Aston Martin",
+        "PowerUnit": "Mercedes",
+        "TeamChief": "Otmar Szafnauer",
+        "Driver1": "Sebastian Vettel",
+        "Driver2": "Lance Stroll",
+        "FlagUrl": "https://www.countryflags.io/gb/flat/16.png",
+        "ColorHex": "#015850",
+        "Points": "1"
+      },
+      {
+        "Position": 7,
+        "ID": "ALR",
+        "TeamName": "Alfa Romeo Racing ORLEN",
+        "TeamNameShort": "Alfa Romeo Racing",
+        "PowerUnit": "Ferrari",
+        "TeamChief": "Frédéric Vasseur",
+        "Driver1": "Kimi Räikkönen",
+        "Driver2": "Antonio Giovinazzi",
+        "FlagUrl": "https://www.countryflags.io/ch/flat/16.png",
+        "ColorHex": "#900000",
+        "Points": "0"
+      },
+      {
+        "Position": 8,
+        "ID": "ALP",
+        "TeamName": "Alpine F1 Team",
+        "TeamNameShort": "Alpine",
+        "PowerUnit": "Renault",
+        "TeamChief": "Davide Brivio",
+        "Driver1": "Fernando Alonso",
+        "Driver2": "Esteban Ocon",
+        "FlagUrl": "https://www.countryflags.io/gb/flat/16.png",
+        "ColorHex": "#0090ff",
+        "Points": "0"
+      },
+      {
+        "Position": 9,
+        "ID": "WIL",
+        "TeamName": "Williams Racing",
+        "TeamNameShort": "Williams",
+        "PowerUnit": "Mercedes",
+        "TeamChief": "Simon Roberts",
+        "Driver1": "George Russell",
+        "Driver2": "Nicholas Latifi",
+        "FlagUrl": "https://www.countryflags.io/gb/flat/16.png",
+        "ColorHex": "#005aff",
+        "Points": "0"
+      },
+      {
+        "Position": 10,
+        "ID": "HAS",
+        "TeamName": "Uralkali Haas F1 Team",
+        "TeamNameShort": "Haas",
+        "PowerUnit": "Ferrari",
+        "TeamChief": "Guenther Steiner",
+        "Driver1": "Mick Schumacher",
+        "Driver2": "Nikita Mazepin",
+        "FlagUrl": "https://www.countryflags.io/us/flat/16.png",
+        "ColorHex": "#ffffff",
+        "Points": "0"
       }
     ]
 }
