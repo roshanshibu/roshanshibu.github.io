@@ -1,0 +1,40 @@
+{
+    "teams": [
+      {
+        "Position": 1,
+        "ID": "MRC",
+        "TeamName": "Mercedes-AMG Petronas F1 Team",
+        "TeamNameShort": "Mercedes",
+        "PowerUnit": "Mercedes",
+        "TeamChief": "Toto Wolff",
+        "Driver1": "Lewis Hamilton",
+        "Driver2": "Valtteri Bottas",
+        "FlagUrl": "https://www.countryflags.io/gb/flat/16.png",
+        "ColorHex": "#25b8b2"
+      },
+      {
+        "Position": 2,
+        "ID": "RBL",
+        "TeamName": "Red Bull Racing Honda",
+        "TeamNameShort": "Red Bull",
+        "PowerUnit": "Honda",
+        "TeamChief": "Christian Horner",
+        "Driver1": "Max Verstappen",
+        "Driver2": "Sergio Perez",
+        "FlagUrl": "https://www.countryflags.io/gb/flat/16.png",
+        "ColorHex": "#0600ef"
+      },
+      {
+        "Position": 3,
+        "ID": "MCL",
+        "TeamName": "McLaren F1 Team",
+        "TeamNameShort": "McLaren",
+        "PowerUnit": "Mercedes",
+        "TeamChief": "Andreas Seidl",
+        "Driver1": "Daniel Ricciardo",
+        "Driver2": "Lando Norris",
+        "FlagUrl": "https://www.countryflags.io/gb/flat/16.png",
+        "ColorHex": "#ff9800"
+      }
+    ]
+}
