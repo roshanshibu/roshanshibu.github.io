@@ -14,19 +14,6 @@
         "Points": "41"
       },
       {
-        "Position": 2,
-        "ID": "RBL",
-        "TeamName": "Red Bull Racing Honda",
-        "TeamNameShort": "Red Bull",
-        "PowerUnit": "Honda",
-        "TeamChief": "Christian Horner",
-        "Driver1": "Max Verstappen",
-        "Driver2": "Sergio Perez",
-        "FlagUrl": "https://www.countryflags.io/gb/flat/16.png",
-        "ColorHex": "#423ed4",
-        "Points": "28"
-      },
-      {
         "Position": 3,
         "ID": "MCL",
         "TeamName": "McLaren F1 Team",
@@ -38,6 +25,19 @@
         "FlagUrl": "https://www.countryflags.io/gb/flat/16.png",
         "ColorHex": "#ff9800",
         "Points": "18"
+      },
+      {
+        "Position": 2,
+        "ID": "RBL",
+        "TeamName": "Red Bull Racing Honda",
+        "TeamNameShort": "Red Bull",
+        "PowerUnit": "Honda",
+        "TeamChief": "Christian Horner",
+        "Driver1": "Max Verstappen",
+        "Driver2": "Sergio Perez",
+        "FlagUrl": "https://www.countryflags.io/gb/flat/16.png",
+        "ColorHex": "#423ed4",
+        "Points": "28"
       }
     ]
 }
