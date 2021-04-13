@@ -51,6 +51,19 @@
         "FlagUrl": "https://www.countryflags.io/it/flat/16.png",
         "ColorHex": "#e43737",
         "Points": "12"
+      },
+      {
+        "Position": 5,
+        "ID": "ALT",
+        "TeamName": "Scuderia AlphaTauri Honda",
+        "TeamNameShort": "AlphaTauri",
+        "PowerUnit": "Honda",
+        "TeamChief": "Franz Tost",
+        "Driver1": "Pierre Gasly",
+        "Driver2": "Yuki Tsunoda",
+        "FlagUrl": "https://www.countryflags.io/it/flat/16.png",
+        "ColorHex": "#406389",
+        "Points": "2"
       }
     ]
 }
