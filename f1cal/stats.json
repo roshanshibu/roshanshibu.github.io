@@ -38,6 +38,19 @@
         "FlagUrl": "https://www.countryflags.io/gb/flat/16.png",
         "ColorHex": "#423ed4",
         "Points": "28"
+      },
+      {
+        "Position": 4,
+        "ID": "FER",
+        "TeamName": "Scuderia Mission Winnow Ferrari",
+        "TeamNameShort": "Ferrari",
+        "PowerUnit": "Ferrari",
+        "TeamChief": "Mattia Binotto",
+        "Driver1": "Charles Leclerc",
+        "Driver2": "Carlos Sainz",
+        "FlagUrl": "https://www.countryflags.io/it/flat/16.png",
+        "ColorHex": "#e43737",
+        "Points": "12"
       }
     ]
 }
