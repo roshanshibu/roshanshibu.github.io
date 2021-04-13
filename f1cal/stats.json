@@ -10,7 +10,8 @@
         "Driver1": "Lewis Hamilton",
         "Driver2": "Valtteri Bottas",
         "FlagUrl": "https://www.countryflags.io/gb/flat/16.png",
-        "ColorHex": "#25b8b2"
+        "ColorHex": "#25b8b2",
+        "Points": 41
       },
       {
         "Position": 2,
@@ -22,7 +23,8 @@
         "Driver1": "Max Verstappen",
         "Driver2": "Sergio Perez",
         "FlagUrl": "https://www.countryflags.io/gb/flat/16.png",
-        "ColorHex": "#0600ef"
+        "ColorHex": "#0600ef",
+        "Points": 28
       },
       {
         "Position": 3,
@@ -34,7 +36,8 @@
         "Driver1": "Daniel Ricciardo",
         "Driver2": "Lando Norris",
         "FlagUrl": "https://www.countryflags.io/gb/flat/16.png",
-        "ColorHex": "#ff9800"
+        "ColorHex": "#ff9800",
+        "Points": 18
       }
     ]
 }
