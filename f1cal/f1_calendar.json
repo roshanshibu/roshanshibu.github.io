@@ -253,5 +253,17 @@
       "RACE_UTC": 1639314000,
       "FLAG_URL": "https://www.countryflags.io/ae/flat/16.png"
     }
-  ]
+  ],
+
+  "lastRaceResults": {
+    "P1_DRIVER_SHORT": "HAM",
+    "P1_DRIVER_NUMBER": 44,
+    "P2_DRIVER_SHORT": "VER",
+    "P2_DRIVER_NUMBER": 33,
+    "P2_DRIVER_DELTA": "+0.745s",
+    "P3_DRIVER_SHORT": "BOT",
+    "P3_DRIVER_NUMBER": 77,
+    "P3_DRIVER_DELTA": "+33.383s",
+    "LAST_RACE_COUNTRY": "Bahrain"
+  }
 }
