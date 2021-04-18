@@ -11,7 +11,7 @@
         "Driver2": "Valtteri Bottas",
         "FlagUrl": "https://www.countryflags.io/gb/flat/16.png",
         "ColorHex": "#25b8b2",
-        "Points": "41"
+        "Points": "60"
       },
       {
         "Position": 3,
@@ -24,7 +24,7 @@
         "Driver2": "Lando Norris",
         "FlagUrl": "https://www.countryflags.io/gb/flat/16.png",
         "ColorHex": "#ff9800",
-        "Points": "18"
+        "Points": "41"
       },
       {
         "Position": 2,
@@ -37,7 +37,7 @@
         "Driver2": "Sergio Perez",
         "FlagUrl": "https://www.countryflags.io/gb/flat/16.png",
         "ColorHex": "#423ed4",
-        "Points": "28"
+        "Points": "53"
       },
       {
         "Position": 4,
@@ -50,10 +50,10 @@
         "Driver2": "Carlos Sainz",
         "FlagUrl": "https://www.countryflags.io/it/flat/16.png",
         "ColorHex": "#e43737",
-        "Points": "12"
+        "Points": "34"
       },
       {
-        "Position": 5,
+        "Position": 6,
         "ID": "ALT",
         "TeamName": "Scuderia AlphaTauri Honda",
         "TeamNameShort": "AlphaTauri",
@@ -63,10 +63,10 @@
         "Driver2": "Yuki Tsunoda",
         "FlagUrl": "https://www.countryflags.io/it/flat/16.png",
         "ColorHex": "#406389",
-        "Points": "2"
+        "Points": "6"
       },
       {
-        "Position": 6,
+        "Position": 5,
         "ID": "AMR",
         "TeamName": "Aston Martin Cognizant F1 Team",
         "TeamNameShort": "Aston Martin",
@@ -76,7 +76,7 @@
         "Driver2": "Lance Stroll",
         "FlagUrl": "https://www.countryflags.io/gb/flat/16.png",
         "ColorHex": "#015850",
-        "Points": "1"
+        "Points": "7"
       },
       {
         "Position": 7,
@@ -89,7 +89,7 @@
         "Driver2": "Antonio Giovinazzi",
         "FlagUrl": "https://www.countryflags.io/ch/flat/16.png",
         "ColorHex": "#900000",
-        "Points": "0"
+        "Points": "2"
       },
       {
         "Position": 8,
@@ -102,7 +102,7 @@
         "Driver2": "Esteban Ocon",
         "FlagUrl": "https://www.countryflags.io/gb/flat/16.png",
         "ColorHex": "#0090ff",
-        "Points": "0"
+        "Points": "1"
       },
       {
         "Position": 9,
