@@ -164,6 +164,7 @@
         "ID": "VER",
         "Number": "33",
         "Team": "RBL",
+        "ColorHex": "#423ed4",
         "Firstname": "Max",
         "Lastname": "Verstappen",
         "HeadshotUrl": "https://firebasestorage.googleapis.com/v0/b/f1calendar-312206.appspot.com/o/drivers%2FhVER.png?alt=media",
