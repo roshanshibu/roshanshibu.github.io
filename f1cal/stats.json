@@ -146,6 +146,7 @@
       {
         "Position": 1,
         "ID": "HAM",
+        "Number": "44",
         "Team": "MRC",
         "ColorHex": "#25b8b2",
         "Firstname": "Lewis",
@@ -160,6 +161,7 @@
       {
         "Position": 2,
         "ID": "VER",
+        "Number": "33",
         "Team": "RBL",
         "Firstname": "Max",
         "Lastname": "Verstappen",
