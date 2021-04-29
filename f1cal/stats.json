@@ -147,6 +147,7 @@
         "Position": 1,
         "ID": "HAM",
         "Team": "MRC",
+        "ColorHex": "#25b8b2",
         "Firstname": "Lewis",
         "Lastname": "Hamilton",
         "HeadshotUrl": "https://firebasestorage.googleapis.com/v0/b/f1calendar-312206.appspot.com/o/flags%2Fgb.png?alt=media",
