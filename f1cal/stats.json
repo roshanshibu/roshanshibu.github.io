@@ -57,7 +57,7 @@
         "Points": "34"
       },
       {
-        "Position": 6,
+        "Position": 5,
         "ID": "ALT",
         "TeamName": "Scuderia AlphaTauri Honda",
         "TeamNameShort": "AlphaTauri",
@@ -68,10 +68,10 @@
         "FlagUrl": "https://firebasestorage.googleapis.com/v0/b/f1calendar-312206.appspot.com/o/flags%2Fit.png?alt=media",
         "LogoUrl": "https://firebasestorage.googleapis.com/v0/b/f1calendar-312206.appspot.com/o/team_logos%2FALT.png?alt=media",
         "ColorHex": "#406389",
-        "Points": "6"
+        "Points": "8"
       },
       {
-        "Position": 5,
+        "Position": 6,
         "ID": "AMR",
         "TeamName": "Aston Martin Cognizant F1 Team",
         "TeamNameShort": "Aston Martin",
@@ -82,10 +82,10 @@
         "FlagUrl": "https://firebasestorage.googleapis.com/v0/b/f1calendar-312206.appspot.com/o/flags%2Fgb.png?alt=media",
         "LogoUrl": "https://firebasestorage.googleapis.com/v0/b/f1calendar-312206.appspot.com/o/team_logos%2FAMR.png?alt=media",
         "ColorHex": "#015850",
-        "Points": "7"
+        "Points": "5"
       },
       {
-        "Position": 7,
+        "Position": 8,
         "ID": "ALR",
         "TeamName": "Alfa Romeo Racing ORLEN",
         "TeamNameShort": "Alfa Romeo Racing",
@@ -99,7 +99,7 @@
         "Points": "2"
       },
       {
-        "Position": 8,
+        "Position": 7,
         "ID": "ALP",
         "TeamName": "Alpine F1 Team",
         "TeamNameShort": "Alpine",
@@ -110,7 +110,7 @@
         "FlagUrl": "https://firebasestorage.googleapis.com/v0/b/f1calendar-312206.appspot.com/o/flags%2Fgb.png?alt=media",
         "LogoUrl": "https://firebasestorage.googleapis.com/v0/b/f1calendar-312206.appspot.com/o/team_logos%2FALP.png?alt=media",
         "ColorHex": "#0090ff",
-        "Points": "1"
+        "Points": "3"
       },
       {
         "Position": 9,
