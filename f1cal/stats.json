@@ -157,8 +157,7 @@
         "TeamLogoUrl": "https://firebasestorage.googleapis.com/v0/b/f1calendar-312206.appspot.com/o/team_logos%2FMRC.png?alt=media",
         "Points": "44",
         "Stat1" : "7 - Championships",
-        "Stat2" : "167 - Podiums",
-        "Stat3" : ""
+        "Stat2" : "167 - Podiums"
       },
       {
         "Position": 2,
@@ -173,8 +172,7 @@
         "TeamLogoUrl": "https://firebasestorage.googleapis.com/v0/b/f1calendar-312206.appspot.com/o/team_logos%2FRBL.png?alt=media",
         "Points": "43",
         "Stat1" : "0 - Championships",
-        "Stat2" : "44 - Podiums",
-        "Stat3" : "1(x11) - Highest Finish"
+        "Stat2" : "44 - Podiums"
       }
 
     ]
