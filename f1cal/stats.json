@@ -146,7 +146,6 @@
       {
         "Position": 1,
         "ID": "HAM",
-        "Number": "44",
         "ColorHex": "#25b8b2",
         "Firstname": "Lewis",
         "Lastname": "Hamilton",
@@ -161,7 +160,6 @@
       {
         "Position": 2,
         "ID": "VER",
-        "Number": "33",
         "ColorHex": "#423ed4",
         "Firstname": "Max",
         "Lastname": "Verstappen",
@@ -176,7 +174,6 @@
       {
         "Position": 3,
         "ID": "NOR",
-        "Number": "4",
         "ColorHex": "#ff9800",
         "Firstname": "Lando",
         "Lastname": "Norris",
@@ -191,7 +188,6 @@
       {
         "Position": 4,
         "ID": "LEC",
-        "Number": "16",
         "ColorHex": "#e43737",
         "Firstname": "Charles",
         "Lastname": "Leclerc",
@@ -206,7 +202,6 @@
       {
         "Position": 5,
         "ID": "BOT",
-        "Number": "77",
         "ColorHex": "#25b8b2",
         "Firstname": "Valtteri",
         "Lastname": "Bottas",
@@ -217,6 +212,48 @@
         "Points": "16",
         "Stat1" : "9 Race wins",
         "Stat2" : "57 Podiums"
+      },
+      {
+        "Position": 6,
+        "ID": "SAI",
+        "ColorHex": "#e43737",
+        "Firstname": "Carlos",
+        "Lastname": "Sainz",
+        "HeadshotUrl": "https://firebasestorage.googleapis.com/v0/b/f1calendar-312206.appspot.com/o/drivers%2FhSAI.png?alt=media",
+        "CelebrationUrl": "https://firebasestorage.googleapis.com/v0/b/f1calendar-312206.appspot.com/o/drivers%2FhSAI.png?alt=media",
+        "FlagUrl": "https://firebasestorage.googleapis.com/v0/b/f1calendar-312206.appspot.com/o/flags%2Fes.png?alt=media",
+        "TeamLogoUrl": "https://firebasestorage.googleapis.com/v0/b/f1calendar-312206.appspot.com/o/team_logos%2FFER.png?alt=media",
+        "Points": "14",
+        "Stat1" : "Highest finish - 2(x1)",
+        "Stat2" : "2 Podiums"
+      },
+      {
+        "Position": 7,
+        "ID": "RIC",
+        "ColorHex": "#ff9800",
+        "Firstname": "Daniel",
+        "Lastname": "Ricciardo",
+        "HeadshotUrl": "https://firebasestorage.googleapis.com/v0/b/f1calendar-312206.appspot.com/o/drivers%2FhRIC.png?alt=media",
+        "CelebrationUrl": "https://firebasestorage.googleapis.com/v0/b/f1calendar-312206.appspot.com/o/drivers%2FhRIC.png?alt=media",
+        "FlagUrl": "https://firebasestorage.googleapis.com/v0/b/f1calendar-312206.appspot.com/o/flags%2Fau.png?alt=media",
+        "TeamLogoUrl": "https://firebasestorage.googleapis.com/v0/b/f1calendar-312206.appspot.com/o/team_logos%2FMCL.png?alt=media",
+        "Points": "14",
+        "Stat1" : "7 Race Wins",
+        "Stat2" : "31 Podiums"
+      },
+      {
+        "Position": 8,
+        "ID": "PER",
+        "ColorHex": "#423ed4",
+        "Firstname": "Sergio",
+        "Lastname": "Perez",
+        "HeadshotUrl": "https://firebasestorage.googleapis.com/v0/b/f1calendar-312206.appspot.com/o/drivers%2FhPER.png?alt=media",
+        "CelebrationUrl": "https://firebasestorage.googleapis.com/v0/b/f1calendar-312206.appspot.com/o/drivers%2FhPER.png?alt=media",
+        "FlagUrl": "https://firebasestorage.googleapis.com/v0/b/f1calendar-312206.appspot.com/o/flags%2Fmx.png?alt=media",
+        "TeamLogoUrl": "https://firebasestorage.googleapis.com/v0/b/f1calendar-312206.appspot.com/o/team_logos%2FRBL.png?alt=media",
+        "Points": "14",
+        "Stat1" : "1 Race Win",
+        "Stat2" : "10 Podiums"
       }
 
     ]
