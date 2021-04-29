@@ -9,7 +9,7 @@
       "P3_UTC": 1616846400,
       "QUALI_UTC": 1616857200,
       "RACE_UTC": 1616943600,
-      "FLAG_URL": "https://www.countryflags.io/bh/flat/16.png"
+      "FLAG_URL": "https://firebasestorage.googleapis.com/v0/b/f1calendar-312206.appspot.com/o/flags%2Fbh.png?alt=media"
     },
     {
       "Round": 2,
@@ -20,7 +20,7 @@
       "P3_UTC": 1618650000,
       "QUALI_UTC": 1618660800,
       "RACE_UTC": 1618750800,
-      "FLAG_URL": "https://www.countryflags.io/it/flat/16.png"
+      "FLAG_URL": "https://firebasestorage.googleapis.com/v0/b/f1calendar-312206.appspot.com/o/flags%2Fit.png?alt=media"
     },
     {
       "Round": 3,
@@ -31,7 +31,7 @@
       "P3_UTC": 1619866800,
       "QUALI_UTC": 1619877600,
       "RACE_UTC": 1619964000,
-      "FLAG_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/32px-Flag_of_Portugal.svg.png"
+      "FLAG_URL": "https://firebasestorage.googleapis.com/v0/b/f1calendar-312206.appspot.com/o/flags%2Fpt.png?alt=media"
     },
     {
       "Round": 4,
@@ -42,7 +42,7 @@
       "P3_UTC": 1620468000,
       "QUALI_UTC": 1620478800,
       "RACE_UTC": 1620565200,
-      "FLAG_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Flag_of_Spain_%28light_colors%29.svg/32px-Flag_of_Spain_%28light_colors%29.svg.png"
+      "FLAG_URL": "https://firebasestorage.googleapis.com/v0/b/f1calendar-312206.appspot.com/o/flags%2Fes.png?alt=media"
     },
     {
       "Round": 5,
@@ -53,7 +53,7 @@
       "P3_UTC": 1621677600,
       "QUALI_UTC": 1621688400,
       "RACE_UTC": 1621774800,
-      "FLAG_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Flag_of_Monaco_%282008_Summer_Olympics%29.svg/32px-Flag_of_Monaco_%282008_Summer_Olympics%29.svg.png"
+      "FLAG_URL": "https://firebasestorage.googleapis.com/v0/b/f1calendar-312206.appspot.com/o/flags%2Fmc.png?alt=media"
     },
     {
       "Round": 6,
@@ -64,7 +64,7 @@
       "P3_UTC": 1622887200,
       "QUALI_UTC": 1622898000,
       "RACE_UTC": 1622980800,
-      "FLAG_URL": "https://www.countryflags.io/az/flat/16.png"
+      "FLAG_URL": "https://firebasestorage.googleapis.com/v0/b/f1calendar-312206.appspot.com/o/flags%2Faz.png?alt=media"
     },
     {
       "Round": 7,
@@ -75,7 +75,7 @@
       "P3_UTC": 1623510000,
       "QUALI_UTC": 1623520800,
       "RACE_UTC": 1623607200,
-      "FLAG_URL": "https://www.countryflags.io/ca/flat/16.png"
+      "FLAG_URL": "https://firebasestorage.googleapis.com/v0/b/f1calendar-312206.appspot.com/o/flags%2Fca.png?alt=media"
     },
     {
       "Round": 8,
@@ -86,7 +86,7 @@
       "P3_UTC": 1624701600,
       "QUALI_UTC": 1624712400,
       "RACE_UTC": 1624798800,
-      "FLAG_URL": "https://www.countryflags.io/fr/flat/16.png"
+      "FLAG_URL": "https://firebasestorage.googleapis.com/v0/b/f1calendar-312206.appspot.com/o/flags%2Ffr.png?alt=media"
     },
     {
       "Round": 9,
@@ -97,7 +97,7 @@
       "P3_UTC": 1625306400,
       "QUALI_UTC": 1625317200,
       "RACE_UTC": 1625403600,
-      "FLAG_URL": "https://www.countryflags.io/at/flat/16.png"
+      "FLAG_URL": "https://firebasestorage.googleapis.com/v0/b/f1calendar-312206.appspot.com/o/flags%2Fat.png?alt=media"
     },
     {
       "Round": 10,
@@ -108,7 +108,7 @@
       "P3_UTC": 1626519600,
       "QUALI_UTC": 1626530400,
       "RACE_UTC": 1626616800,
-      "FLAG_URL": "https://www.countryflags.io/gb/flat/16.png"
+      "FLAG_URL": "https://firebasestorage.googleapis.com/v0/b/f1calendar-312206.appspot.com/o/flags%2Fgb.png?alt=media"
     },
     {
       "Round": 11,
@@ -119,7 +119,7 @@
       "P3_UTC": 1627725600,
       "QUALI_UTC": 1627736400,
       "RACE_UTC": 1627822800,
-      "FLAG_URL": "https://www.countryflags.io/hu/flat/16.png"
+      "FLAG_URL": "https://firebasestorage.googleapis.com/v0/b/f1calendar-312206.appspot.com/o/flags%2Fhu.png?alt=media"
     },
     {
       "Round": 12,
@@ -130,7 +130,7 @@
       "P3_UTC": 1630144800,
       "QUALI_UTC": 1630155600,
       "RACE_UTC": 1630242000,
-      "FLAG_URL": "https://www.countryflags.io/be/flat/16.png"
+      "FLAG_URL": "https://firebasestorage.googleapis.com/v0/b/f1calendar-312206.appspot.com/o/flags%2Fbe.png?alt=media"
     },
     {
       "Round": 13,
@@ -141,7 +141,7 @@
       "P3_UTC": 1630756800,
       "QUALI_UTC": 1630767600,
       "RACE_UTC": 1630850400,
-      "FLAG_URL": "https://www.countryflags.io/nl/flat/16.png"
+      "FLAG_URL": "https://firebasestorage.googleapis.com/v0/b/f1calendar-312206.appspot.com/o/flags%2Fnl.png?alt=media"
     },
     {
       "Round": 14,
@@ -152,7 +152,7 @@
       "P3_UTC": 1631354400,
       "QUALI_UTC": 1631365200,
       "RACE_UTC": 1631451600,
-      "FLAG_URL": "https://www.countryflags.io/it/flat/16.png"
+      "FLAG_URL": "https://firebasestorage.googleapis.com/v0/b/f1calendar-312206.appspot.com/o/flags%2Fit.png?alt=media"
     },
     {
       "Round": 15,
@@ -163,7 +163,7 @@
       "P3_UTC": 1632560400,
       "QUALI_UTC": 1632571200,
       "RACE_UTC": 1632657600,
-      "FLAG_URL": "https://www.countryflags.io/ru/flat/16.png"
+      "FLAG_URL": "https://firebasestorage.googleapis.com/v0/b/f1calendar-312206.appspot.com/o/flags%2Fru.png?alt=media"
     },
     {
       "Round": 16,
@@ -174,7 +174,7 @@
       "P3_UTC": 1633168800,
       "QUALI_UTC": 1633179600,
       "RACE_UTC": 1633262400,
-      "FLAG_URL": "https://www.countryflags.io/sg/flat/16.png"
+      "FLAG_URL": "https://firebasestorage.googleapis.com/v0/b/f1calendar-312206.appspot.com/o/flags%2Fsg.png?alt=media"
     },
     {
       "Round": 17,
@@ -185,7 +185,7 @@
       "P3_UTC": 1633748400,
       "QUALI_UTC": 1633759200,
       "RACE_UTC": 1633842000,
-      "FLAG_URL": "https://www.countryflags.io/jp/flat/16.png"
+      "FLAG_URL": "https://firebasestorage.googleapis.com/v0/b/f1calendar-312206.appspot.com/o/flags%2Fjp.png?alt=media"
     },
     {
       "Round": 18,
@@ -196,7 +196,7 @@
       "P3_UTC": 1635012000,
       "QUALI_UTC": 1635022800,
       "RACE_UTC": 1635102000,
-      "FLAG_URL": "https://www.countryflags.io/us/flat/16.png"
+      "FLAG_URL": "https://firebasestorage.googleapis.com/v0/b/f1calendar-312206.appspot.com/o/flags%2Fus.png?alt=media"
     },
     {
       "Round": 19,
@@ -207,7 +207,7 @@
       "P3_UTC": 1635609600,
       "QUALI_UTC": 1635620400,
       "RACE_UTC": 1635706800,
-      "FLAG_URL": "https://www.countryflags.io/mx/flat/16.png"
+      "FLAG_URL": "https://firebasestorage.googleapis.com/v0/b/f1calendar-312206.appspot.com/o/flags%2Fmx.png?alt=media"
     },
     {
       "Round": 20,
@@ -218,7 +218,7 @@
       "P3_UTC": 1636210800,
       "QUALI_UTC": 1636221600,
       "RACE_UTC": 1636300800,
-      "FLAG_URL": "https://www.countryflags.io/br/flat/16.png"
+      "FLAG_URL": "https://firebasestorage.googleapis.com/v0/b/f1calendar-312206.appspot.com/o/flags%2Fbr.png?alt=media"
     },
     {
       "Round": 21,
@@ -229,7 +229,7 @@
       "P3_UTC": 1637377200,
       "QUALI_UTC": 1637388000,
       "RACE_UTC": 1637474400,
-      "FLAG_URL": "https://www.countryflags.io/au/flat/16.png"
+      "FLAG_URL": "https://firebasestorage.googleapis.com/v0/b/f1calendar-312206.appspot.com/o/flags%2Fau.png?alt=media"
     },
     {
       "Round": 22,
@@ -240,7 +240,7 @@
       "P3_UTC": 1638622800,
       "QUALI_UTC": 1638633600,
       "RACE_UTC": 1638720000,
-      "FLAG_URL": "https://www.countryflags.io/sa/flat/16.png"
+      "FLAG_URL": "https://firebasestorage.googleapis.com/v0/b/f1calendar-312206.appspot.com/o/flags%2Fsa.png?alt=media"
     },
     {
       "Round": 23,
@@ -251,7 +251,7 @@
       "P3_UTC": 1639216800,
       "QUALI_UTC": 1639227600,
       "RACE_UTC": 1639314000,
-      "FLAG_URL": "https://www.countryflags.io/ae/flat/16.png"
+      "FLAG_URL": "https://firebasestorage.googleapis.com/v0/b/f1calendar-312206.appspot.com/o/flags%2Fae.png?alt=media"
     }
   ],
 
