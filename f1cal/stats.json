@@ -10,7 +10,7 @@
         "Driver1": "Lewis Hamilton",
         "Driver2": "Valtteri Bottas",
         "CountryCode": "gb",
-        "Points": "60"
+        "Points": "101"
       },
       {
         "Position": 3,
@@ -22,7 +22,7 @@
         "Driver1": "Daniel Ricciardo",
         "Driver2": "Lando Norris",
         "CountryCode": "gb",
-        "Points": "41"
+        "Points": "53"
       },
       {
         "Position": 2,
@@ -34,7 +34,7 @@
         "Driver1": "Max Verstappen",
         "Driver2": "Sergio Perez",
         "CountryCode": "gb",
-        "Points": "53"
+        "Points": "83"
       },
       {
         "Position": 4,
@@ -46,10 +46,10 @@
         "Driver1": "Charles Leclerc",
         "Driver2": "Carlos Sainz",
         "CountryCode": "it",
-        "Points": "34"
+        "Points": "42"
       },
       {
-        "Position": 5,
+        "Position": 6,
         "ID": "ALT",
         "TeamName": "Scuderia AlphaTauri Honda",
         "TeamNameShort": "AlphaTauri",
@@ -58,10 +58,10 @@
         "Driver1": "Pierre Gasly",
         "Driver2": "Yuki Tsunoda",
         "CountryCode": "it",
-        "Points": "8"
+        "Points": "9"
       },
       {
-        "Position": 6,
+        "Position": 7,
         "ID": "AMR",
         "TeamName": "Aston Martin Cognizant F1 Team",
         "TeamNameShort": "Aston Martin",
@@ -85,7 +85,7 @@
         "Points": "0"
       },
       {
-        "Position": 7,
+        "Position": 5,
         "ID": "ALP",
         "TeamName": "Alpine F1 Team",
         "TeamNameShort": "Alpine",
@@ -94,7 +94,7 @@
         "Driver1": "Fernando Alonso",
         "Driver2": "Esteban Ocon",
         "CountryCode": "gb",
-        "Points": "3"
+        "Points": "13"
       },
       {
         "Position": 9,
@@ -124,26 +124,26 @@
 
     "drivers": [
       {
-        "Position": 2,
+        "Position": 1,
         "ID": "HAM",
         "Firstname": "Lewis",
         "Lastname": "Hamilton",
         "CountryCode": "gb",
         "TeamId": "MRC",
-        "Points": "44",
+        "Points": "69",
         "Stat1": "7 Championships",
-        "Stat2": "96 Race Wins"
+        "Stat2": "97 Race Wins"
       },
       {
-        "Position": 1,
+        "Position": 2,
         "ID": "VER",
         "Firstname": "Max",
         "Lastname": "Verstappen",
         "CountryCode": "nl",
         "TeamId": "RBL",
-        "Points": "43",
+        "Points": "61",
         "Stat1": "11 Race Wins",
-        "Stat2": "44 Podiums"
+        "Stat2": "45 Podiums"
       },
       {
         "Position": 3,
@@ -152,34 +152,34 @@
         "Lastname": "Norris",
         "CountryCode": "gb",
         "TeamId": "MCL",
-        "Points": "27",
+        "Points": "37",
         "Stat1": "Highest Finish - 3(x2)",
         "Stat2": "2 Podiums"
       },
       {
-        "Position": 4,
+        "Position": 5,
         "ID": "LEC",
         "Firstname": "Charles",
         "Lastname": "Leclerc",
         "CountryCode": "mc",
         "TeamId": "FER",
-        "Points": "20",
+        "Points": "28",
         "Stat1": "2 Race Wins",
         "Stat2": "12 Podiums"
       },
       {
-        "Position": 5,
+        "Position": 4,
         "ID": "BOT",
         "Firstname": "Valtteri",
         "Lastname": "Bottas",
         "CountryCode": "fn",
         "TeamId": "MRC",
-        "Points": "16",
+        "Points": "32",
         "Stat1": "9 Race Wins",
-        "Stat2": "57 Podiums"
+        "Stat2": "58 Podiums"
       },
       {
-        "Position": 6,
+        "Position": 8,
         "ID": "SAI",
         "Firstname": "Carlos",
         "Lastname": "Sainz",
@@ -196,34 +196,34 @@
         "Lastname": "Ricciardo",
         "CountryCode": "au",
         "TeamId": "MCL",
-        "Points": "14",
+        "Points": "16",
         "Stat1": "7 Race Wins",
         "Stat2": "31 Podiums"
       },
       {
-        "Position": 8,
+        "Position": 6,
         "ID": "PER",
         "Firstname": "Sergio",
         "Lastname": "Pérez",
         "CountryCode": "mx",
         "TeamId": "RBL",
-        "Points": "10",
+        "Points": "22",
         "Stat1": "1 Win",
         "Stat2": "10 Podiums"
       },
       {
-        "Position": 9,
+        "Position": 10,
         "ID": "GAS",
         "Firstname": "Pierre",
         "Lastname": "Gasly",
         "CountryCode": "fr",
         "TeamId": "ALT",
-        "Points": "6",
+        "Points": "7",
         "Stat1": "1 Win",
         "Stat2": "2 Podiums"
       },
       {
-        "Position": 10,
+        "Position": 11,
         "ID": "STR",
         "Firstname": "Lance",
         "Lastname": "Stroll",
@@ -234,7 +234,7 @@
         "Stat2": "3 Podiums"
       },
       {
-        "Position": 11,
+        "Position": 13,
         "ID": "TSU",
         "Firstname": "Yuki",
         "Lastname": "Tsunoda",
@@ -242,27 +242,27 @@
         "TeamId": "ALT",
         "Points": "2",
         "Stat1": "Highest Finish - 9(x1)",
-        "Stat2": "2 Race Entries"
+        "Stat2": "3 Race Entries"
       },
       {
-        "Position": 12,
+        "Position": 9,
         "ID": "OCO",
         "Firstname": "Esteban",
         "Lastname": "Ocon",
         "CountryCode": "fr",
         "TeamId": "ALP",
-        "Points": "2",
+        "Points": "8",
         "Stat1": "Highest Finish - 2(x1)",
         "Stat2": "1 Podium"
       },
       {
-        "Position": 13,
+        "Position": 12,
         "ID": "ALO",
         "Firstname": "Fernando",
         "Lastname": "Alonso",
         "CountryCode": "es",
         "TeamId": "ALP",
-        "Points": "1",
+        "Points": "5",
         "Stat1": "2 Championships",
         "Stat2": "32 Race Wins"
       },
@@ -286,10 +286,10 @@
         "TeamId": "ALR",
         "Points": "0",
         "Stat1": "Highest Finish - 5(x1)",
-        "Stat2": "42 Race Entries"
+        "Stat2": "43 Race Entries"
       },
       {
-        "Position": 16,
+        "Position": 17,
         "ID": "RUS",
         "Firstname": "George",
         "Lastname": "Russell",
@@ -297,10 +297,10 @@
         "TeamId": "WIL",
         "Points": "0",
         "Stat1": "Highest Finish - 9(x1)",
-        "Stat2": "40 Race Entries"
+        "Stat2": "41 Race Entries"
       },
       {
-        "Position": 17,
+        "Position": 16,
         "ID": "VET",
         "Firstname": "Sebastian",
         "Lastname": "Vettel",
@@ -319,7 +319,7 @@
         "TeamId": "HAS",
         "Points": "0",
         "Stat1": "Highest Finish - 16(x2)",
-        "Stat2": "2 Race Entries"
+        "Stat2": "3 Race Entries"
       },
       {
         "Position": 19,
@@ -330,7 +330,7 @@
         "TeamId": "HAS",
         "Points": "0",
         "Stat1": "Highest Finish - 17(x1)",
-        "Stat2": "2 Race Entries"
+        "Stat2": "3 Race Entries"
       },
       {
         "Position": 20,
