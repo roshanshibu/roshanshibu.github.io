@@ -146,7 +146,6 @@
       {
         "Position": 1,
         "ID": "HAM",
-        "ColorHex": "#25b8b2",
         "Firstname": "Lewis",
         "Lastname": "Hamilton",
         "CountryCode": "gb",
@@ -158,7 +157,6 @@
       {
         "Position": 2,
         "ID": "VER",
-        "ColorHex": "#423ed4",
         "Firstname": "Max",
         "Lastname": "Verstappen",
         "CountryCode": "nl",
@@ -170,7 +168,6 @@
       {
         "Position": 3,
         "ID": "NOR",
-        "ColorHex": "#ff9800",
         "Firstname": "Lando",
         "Lastname": "Norris",
         "CountryCode": "gb",
@@ -182,7 +179,6 @@
       {
         "Position": 4,
         "ID": "LEC",
-        "ColorHex": "#e43737",
         "Firstname": "Charles",
         "Lastname": "Leclerc",
         "CountryCode": "mc",
@@ -194,7 +190,6 @@
       {
         "Position": 5,
         "ID": "BOT",
-        "ColorHex": "#25b8b2",
         "Firstname": "Valtteri",
         "Lastname": "Bottas",
         "CountryCode": "fn",
@@ -206,7 +201,6 @@
       {
         "Position": 6,
         "ID": "SAI",
-        "ColorHex": "#e43737",
         "Firstname": "Carlos",
         "Lastname": "Sainz",
         "CountryCode": "es",
@@ -218,7 +212,6 @@
       {
         "Position": 7,
         "ID": "RIC",
-        "ColorHex": "#ff9800",
         "Firstname": "Daniel",
         "Lastname": "Ricciardo",
         "CountryCode": "au",
@@ -230,7 +223,6 @@
       {
         "Position": 8,
         "ID": "PER",
-        "ColorHex": "#423ed4",
         "Firstname": "Sergio",
         "Lastname": "Pérez",
         "CountryCode": "mx",
@@ -242,7 +234,6 @@
       {
         "Position": 9,
         "ID": "GAS",
-        "ColorHex": "#406389",
         "Firstname": "Pierre",
         "Lastname": "Gasly",
         "CountryCode": "fr",
@@ -254,7 +245,6 @@
       {
         "Position": 10,
         "ID": "STR",
-        "ColorHex": "#015850",
         "Firstname": "Lance",
         "Lastname": "Stroll",
         "CountryCode": "ca",
@@ -266,7 +256,6 @@
       {
         "Position": 11,
         "ID": "TSU",
-        "ColorHex": "#406389",
         "Firstname": "Yuki",
         "Lastname": "Tsunoda",
         "CountryCode": "jp",
@@ -278,7 +267,6 @@
       {
         "Position": 12,
         "ID": "OCO",
-        "ColorHex": "#0090ff",
         "Firstname": "Esteban",
         "Lastname": "Ocon",
         "CountryCode": "fr",
@@ -290,7 +278,6 @@
       {
         "Position": 13,
         "ID": "ALO",
-        "ColorHex": "#0090ff",
         "Firstname": "Fernando",
         "Lastname": "Alonso",
         "CountryCode": "es",
@@ -302,7 +289,6 @@
       {
         "Position": 14,
         "ID": "RAI",
-        "ColorHex": "#900000",
         "Firstname": "Kimi",
         "Lastname": "Räikkönen",
         "CountryCode": "fn",
@@ -314,7 +300,6 @@
       {
         "Position": 15,
         "ID": "GIO",
-        "ColorHex": "#900000",
         "Firstname": "Antonio",
         "Lastname": "Giovinazzi",
         "CountryCode": "it",
@@ -326,7 +311,6 @@
       {
         "Position": 16,
         "ID": "RUS",
-        "ColorHex": "#005aff",
         "Firstname": "George",
         "Lastname": "Russell",
         "CountryCode": "gb",
@@ -338,7 +322,6 @@
       {
         "Position": 17,
         "ID": "VET",
-        "ColorHex": "#015850",
         "Firstname": "Sebastian",
         "Lastname": "Vettel",
         "CountryCode": "de",
@@ -350,7 +333,6 @@
       {
         "Position": 18,
         "ID": "MSC",
-        "ColorHex": "#ffffff",
         "Firstname": "Mick",
         "Lastname": "Schumacher",
         "CountryCode": "de",
@@ -362,7 +344,6 @@
       {
         "Position": 19,
         "ID": "MAZ",
-        "ColorHex": "#ffffff",
         "Firstname": "Nikita",
         "Lastname": "Mazepin",
         "CountryCode": "ru",
@@ -374,7 +355,6 @@
       {
         "Position": 20,
         "ID": "LAT",
-        "ColorHex": "#005aff",
         "Firstname": "Nicholas",
         "Lastname": "Latifi",
         "CountryCode": "ca",
@@ -391,6 +371,20 @@
         "CelebrationUrl": "https://firebasestorage.googleapis.com/v0/b/f1calendar-312206.appspot.com/o/drivers%2Fc_DRIVERID_.png?alt=media",
         "FlagUrl": "https://firebasestorage.googleapis.com/v0/b/f1calendar-312206.appspot.com/o/flags%2F_COUNTRYID_.png?alt=media",
         "TeamLogoUrl": "https://firebasestorage.googleapis.com/v0/b/f1calendar-312206.appspot.com/o/team_logos%2F_TEAMID_.png?alt=media"
+        }
+    ] ,
+    "colors": [
+        {
+          "MRC": "#25b8b2",
+          "MCL": "#ff9800",
+          "RBL": "#040090",
+          "FER": "#e43737",
+          "ALT": "#152332",
+          "AMR": "#015850",
+          "ALR": "#590000",
+          "ALP": "#0090ff",
+          "WIL": "#005aff",
+          "HAS": "#ffffff"
         }
     ]    
 }
