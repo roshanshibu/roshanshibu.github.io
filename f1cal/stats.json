@@ -124,7 +124,7 @@
 
     "drivers": [
       {
-        "Position": 2,
+        "Position": 1,
         "ID": "HAM",
         "Firstname": "Lewis",
         "Lastname": "Hamilton",
@@ -135,7 +135,7 @@
         "Stat2": "96 Race Wins"
       },
       {
-        "Position": 5,
+        "Position": 2,
         "ID": "VER",
         "Firstname": "Max",
         "Lastname": "Verstappen",
@@ -168,7 +168,7 @@
         "Stat2": "12 Podiums"
       },
       {
-        "Position": 1,
+        "Position": 5,
         "ID": "BOT",
         "Firstname": "Valtteri",
         "Lastname": "Bottas",
