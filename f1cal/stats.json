@@ -9,9 +9,7 @@
         "TeamChief": "Toto Wolff",
         "Driver1": "Lewis Hamilton",
         "Driver2": "Valtteri Bottas",
-        "FlagUrl": "https://firebasestorage.googleapis.com/v0/b/f1calendar-312206.appspot.com/o/flags%2Fgb.png?alt=media",
-        "LogoUrl": "https://firebasestorage.googleapis.com/v0/b/f1calendar-312206.appspot.com/o/team_logos%2FMRC.png?alt=media",
-        "ColorHex": "#25b8b2",
+        "CountryCode": "gb",
         "Points": "60"
       },
       {
@@ -23,9 +21,7 @@
         "TeamChief": "Andreas Seidl",
         "Driver1": "Daniel Ricciardo",
         "Driver2": "Lando Norris",
-        "FlagUrl": "https://firebasestorage.googleapis.com/v0/b/f1calendar-312206.appspot.com/o/flags%2Fgb.png?alt=media",
-        "LogoUrl": "https://firebasestorage.googleapis.com/v0/b/f1calendar-312206.appspot.com/o/team_logos%2FMCL.png?alt=media",
-        "ColorHex": "#ff9800",
+        "CountryCode": "gb",
         "Points": "41"
       },
       {
@@ -37,9 +33,7 @@
         "TeamChief": "Christian Horner",
         "Driver1": "Max Verstappen",
         "Driver2": "Sergio Perez",
-        "FlagUrl": "https://firebasestorage.googleapis.com/v0/b/f1calendar-312206.appspot.com/o/flags%2Fgb.png?alt=media",
-        "LogoUrl": "https://firebasestorage.googleapis.com/v0/b/f1calendar-312206.appspot.com/o/team_logos%2FRBL.png?alt=media",
-        "ColorHex": "#423ed4",
+        "CountryCode": "gb",
         "Points": "53"
       },
       {
@@ -51,9 +45,7 @@
         "TeamChief": "Mattia Binotto",
         "Driver1": "Charles Leclerc",
         "Driver2": "Carlos Sainz",
-        "FlagUrl": "https://firebasestorage.googleapis.com/v0/b/f1calendar-312206.appspot.com/o/flags%2Fit.png?alt=media",
-        "LogoUrl": "https://firebasestorage.googleapis.com/v0/b/f1calendar-312206.appspot.com/o/team_logos%2FFER.png?alt=media",
-        "ColorHex": "#e43737",
+        "CountryCode": "it",
         "Points": "34"
       },
       {
@@ -65,9 +57,7 @@
         "TeamChief": "Franz Tost",
         "Driver1": "Pierre Gasly",
         "Driver2": "Yuki Tsunoda",
-        "FlagUrl": "https://firebasestorage.googleapis.com/v0/b/f1calendar-312206.appspot.com/o/flags%2Fit.png?alt=media",
-        "LogoUrl": "https://firebasestorage.googleapis.com/v0/b/f1calendar-312206.appspot.com/o/team_logos%2FALT.png?alt=media",
-        "ColorHex": "#406389",
+        "CountryCode": "it",
         "Points": "8"
       },
       {
@@ -79,9 +69,7 @@
         "TeamChief": "Otmar Szafnauer",
         "Driver1": "Sebastian Vettel",
         "Driver2": "Lance Stroll",
-        "FlagUrl": "https://firebasestorage.googleapis.com/v0/b/f1calendar-312206.appspot.com/o/flags%2Fgb.png?alt=media",
-        "LogoUrl": "https://firebasestorage.googleapis.com/v0/b/f1calendar-312206.appspot.com/o/team_logos%2FAMR.png?alt=media",
-        "ColorHex": "#015850",
+        "CountryCode": "gb",
         "Points": "5"
       },
       {
@@ -93,9 +81,7 @@
         "TeamChief": "Frédéric Vasseur",
         "Driver1": "Kimi Räikkönen",
         "Driver2": "Antonio Giovinazzi",
-        "FlagUrl": "https://firebasestorage.googleapis.com/v0/b/f1calendar-312206.appspot.com/o/flags%2Fch.png?alt=media",
-        "LogoUrl": "https://firebasestorage.googleapis.com/v0/b/f1calendar-312206.appspot.com/o/team_logos%2FALR.png?alt=media",
-        "ColorHex": "#900000",
+        "CountryCode": "ch",
         "Points": "0"
       },
       {
@@ -107,9 +93,7 @@
         "TeamChief": "Davide Brivio",
         "Driver1": "Fernando Alonso",
         "Driver2": "Esteban Ocon",
-        "FlagUrl": "https://firebasestorage.googleapis.com/v0/b/f1calendar-312206.appspot.com/o/flags%2Fgb.png?alt=media",
-        "LogoUrl": "https://firebasestorage.googleapis.com/v0/b/f1calendar-312206.appspot.com/o/team_logos%2FALP.png?alt=media",
-        "ColorHex": "#0090ff",
+        "CountryCode": "gb",
         "Points": "3"
       },
       {
@@ -121,9 +105,7 @@
         "TeamChief": "Simon Roberts",
         "Driver1": "George Russell",
         "Driver2": "Nicholas Latifi",
-        "FlagUrl": "https://firebasestorage.googleapis.com/v0/b/f1calendar-312206.appspot.com/o/flags%2Fgb.png?alt=media",
-        "LogoUrl": "https://firebasestorage.googleapis.com/v0/b/f1calendar-312206.appspot.com/o/team_logos%2FWIL.png?alt=media",
-        "ColorHex": "#005aff",
+        "CountryCode": "gb",
         "Points": "0"
       },
       {
@@ -135,9 +117,7 @@
         "TeamChief": "Guenther Steiner",
         "Driver1": "Mick Schumacher",
         "Driver2": "Nikita Mazepin",
-        "FlagUrl": "https://firebasestorage.googleapis.com/v0/b/f1calendar-312206.appspot.com/o/flags%2Fus.png?alt=media",
-        "LogoUrl": "https://firebasestorage.googleapis.com/v0/b/f1calendar-312206.appspot.com/o/team_logos%2FHAS.png?alt=media",
-        "ColorHex": "#ffffff",
+        "CountryCode": "us",
         "Points": "0"
       }
     ],
