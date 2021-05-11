@@ -10,7 +10,7 @@
         "Driver1": "Lewis Hamilton",
         "Driver2": "Valtteri Bottas",
         "CountryCode": "gb",
-        "Points": "101"
+        "Points": "141"
       },
       {
         "Position": 3,
@@ -22,7 +22,7 @@
         "Driver1": "Daniel Ricciardo",
         "Driver2": "Lando Norris",
         "CountryCode": "gb",
-        "Points": "53"
+        "Points": "65"
       },
       {
         "Position": 2,
@@ -34,7 +34,7 @@
         "Driver1": "Max Verstappen",
         "Driver2": "Sergio Perez",
         "CountryCode": "gb",
-        "Points": "83"
+        "Points": "112"
       },
       {
         "Position": 4,
@@ -46,7 +46,7 @@
         "Driver1": "Charles Leclerc",
         "Driver2": "Carlos Sainz",
         "CountryCode": "it",
-        "Points": "42"
+        "Points": "60"
       },
       {
         "Position": 6,
@@ -58,7 +58,7 @@
         "Driver1": "Pierre Gasly",
         "Driver2": "Yuki Tsunoda",
         "CountryCode": "it",
-        "Points": "9"
+        "Points": "10"
       },
       {
         "Position": 7,
@@ -94,7 +94,7 @@
         "Driver1": "Fernando Alonso",
         "Driver2": "Esteban Ocon",
         "CountryCode": "gb",
-        "Points": "13"
+        "Points": "15"
       },
       {
         "Position": 9,
