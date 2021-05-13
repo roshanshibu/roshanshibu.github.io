@@ -347,10 +347,10 @@
     ],
     "urls": [
         {
-        "HeadshotUrl": "https://firebasestorage.googleapis.com/v0/b/f1calendar-312206.appspot.com/o/drivers%2Fh_DRIVERID_.png?alt=media",
-        "CelebrationUrl": "https://firebasestorage.googleapis.com/v0/b/f1calendar-312206.appspot.com/o/drivers%2Fc_DRIVERID_.png?alt=media",
-        "FlagUrl": "https://firebasestorage.googleapis.com/v0/b/f1calendar-312206.appspot.com/o/flags%2F_COUNTRYID_.png?alt=media",
-        "TeamLogoUrl": "https://firebasestorage.googleapis.com/v0/b/f1calendar-312206.appspot.com/o/team_logos%2F_TEAMID_.png?alt=media"
+        "HeadshotUrl": "https://f1calendar-312206.web.app/drivers/h_DRIVERID_.png",
+        "CelebrationUrl": "https://f1calendar-312206.web.app/drivers/c_DRIVERID_.png",
+        "FlagUrl": "https://f1calendar-312206.web.app/flags/F_COUNTRYID_.png",
+        "TeamLogoUrl": "https://f1calendar-312206.web.app/team_logos/_TEAMID_.png"
         }
     ] ,
     "colors": [
