@@ -349,7 +349,7 @@
         {
         "HeadshotUrl": "https://f1calendar-312206.web.app/drivers/h_DRIVERID_.png",
         "CelebrationUrl": "https://f1calendar-312206.web.app/drivers/c_DRIVERID_.png",
-        "FlagUrl": "https://f1calendar-312206.web.app/flags/F_COUNTRYID_.png",
+        "FlagUrl": "https://f1calendar-312206.web.app/flags/_COUNTRYID_.png",
         "TeamLogoUrl": "https://f1calendar-312206.web.app/team_logos/_TEAMID_.png"
         }
     ] ,
