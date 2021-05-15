@@ -47,7 +47,7 @@
   {
     "Round": 5,
     "RaceName": "Formula 1 Grand Prix De Monaco 2021",
-    "RaceLocation": "Monte Carlo",
+    "RaceLocation": "Monte Carlo, Monaco",
     "P1_UTC": 1621503000,
     "P2_UTC": 1621515600,
     "P3_UTC": 1621677600,
@@ -58,7 +58,7 @@
   {
     "Round": 6,
     "RaceName": "Formula 1 Azerbaijan Grand Prix 2021",
-    "RaceLocation": "Baku",
+    "RaceLocation": "Baku, Azerbaijan",
     "P1_UTC": 1622799000,
     "P2_UTC": 1622811600,
     "P3_UTC": 1622887200,
@@ -69,7 +69,7 @@
   {
     "Round": 7,
     "RaceName": "Formula 1 Grand Prix De France 2021",
-    "RaceLocation": "Le Castellet",
+    "RaceLocation": "Le Castellet, France",
     "P1_UTC": 1624008600,
     "P2_UTC": 1624021200,
     "P3_UTC": 1624096800,
@@ -80,7 +80,7 @@
   {
     "Round": 8,
     "RaceName": "Formula 1 Styrian Grand Prix 2021",
-    "RaceLocation": "Spielberg",
+    "RaceLocation": "Spielberg, Austria",
     "P1_UTC": 1624613400,
     "P2_UTC": 1624626000,
     "P3_UTC": 1624701600,
@@ -91,7 +91,7 @@
   {
     "Round": 9,
     "RaceName": "Formula 1 myWorld Grosser Preis Von Österreich 2021",
-    "RaceLocation": "Spielberg",
+    "RaceLocation": "Spielberg, Austria",
     "P1_UTC": 1625218200,
     "P2_UTC": 1625230800,
     "P3_UTC": 1625306400,
@@ -102,7 +102,7 @@
   {
     "Round": 10,
     "RaceName": "Formula 1 Pirelli British Grand Prix 2021",
-    "RaceLocation": "Silverstone",
+    "RaceLocation": "Silverstone, United Kingdom",
     "P1_UTC": 1626431400,
     "P2_UTC": 1626444000,
     "P3_UTC": 1626519600,
@@ -124,7 +124,7 @@
   {
     "Round": 12,
     "RaceName": "Formula 1 Rolex Belgian Grand Prix 2021",
-    "RaceLocation": "Stavelot",
+    "RaceLocation": "Stavelot, Belgium",
     "P1_UTC": 1630056600,
     "P2_UTC": 1630069200,
     "P3_UTC": 1630144800,
@@ -135,7 +135,7 @@
   {
     "Round": 13,
     "RaceName": "Formula 1 Dutch Grand Prix 2021",
-    "RaceLocation": "Zandvoort",
+    "RaceLocation": "Zandvoort, Netherlands",
     "P1_UTC": 1630666800,
     "P2_UTC": 1630681200,
     "P3_UTC": 1630756800,
@@ -146,7 +146,7 @@
   {
     "Round": 14,
     "RaceName": "Formula 1 Italian Grand Prix 2021",
-    "RaceLocation": "Monza",
+    "RaceLocation": "Monza, Italy",
     "P1_UTC": 1631266200,
     "P2_UTC": 1631278800,
     "P3_UTC": 1631354400,
@@ -157,7 +157,7 @@
   {
     "Round": 15,
     "RaceName": "Formula 1 VTB Russian Grand Prix 2021",
-    "RaceLocation": "Sochi",
+    "RaceLocation": "Sochi, Russia",
     "P1_UTC": 1632472200,
     "P2_UTC": 1632484800,
     "P3_UTC": 1632560400,
@@ -168,7 +168,7 @@
   {
     "Round": 16,
     "RaceName": "Formula 1 Singapore Airlines Singapore Grand Prix 2021",
-    "RaceLocation": "Marina Bay",
+    "RaceLocation": "Marina Bay, Singapore",
     "P1_UTC": 1633078800,
     "P2_UTC": 1633091400,
     "P3_UTC": 1633168800,
@@ -179,7 +179,7 @@
   {
     "Round": 17,
     "RaceName": "Formula 1 Japanese Grand Prix 2021",
-    "RaceLocation": "Suzuka",
+    "RaceLocation": "Suzuka, Japan",
     "P1_UTC": 1633660200,
     "P2_UTC": 1633672800,
     "P3_UTC": 1633748400,
@@ -190,7 +190,7 @@
   {
     "Round": 18,
     "RaceName": "Formula 1 Aramco United States Grand Prix 2021",
-    "RaceLocation": "Austin",
+    "RaceLocation": "Austin, United States",
     "P1_UTC": 1634920200,
     "P2_UTC": 1634932800,
     "P3_UTC": 1635012000,
@@ -201,7 +201,7 @@
   {
     "Round": 19,
     "RaceName": "Formula 1 Gran Premio De La Ciudad De México 2021",
-    "RaceLocation": "Mexico City",
+    "RaceLocation": "Mexico City, Mexico",
     "P1_UTC": 1635525000,
     "P2_UTC": 1635537600,
     "P3_UTC": 1635609600,
@@ -212,7 +212,7 @@
   {
     "Round": 20,
     "RaceName": "Formula 1 Grande Prêmio De São Paulo 2021",
-    "RaceLocation": "São Paulo",
+    "RaceLocation": "São Paulo, Brazil",
     "P1_UTC": 1636122600,
     "P2_UTC": 1636135200,
     "P3_UTC": 1636210800,
@@ -223,7 +223,7 @@
   {
     "Round": 21,
     "RaceName": "Formula 1 Rolex Australian Grand Prix 2021",
-    "RaceLocation": "Melbourne",
+    "RaceLocation": "Melbourne, Australia",
     "P1_UTC": 1637285400,
     "P2_UTC": 1637298000,
     "P3_UTC": 1637377200,
@@ -234,7 +234,7 @@
   {
     "Round": 22,
     "RaceName": "Formula 1 Saudi Arabian Grand Prix 2021",
-    "RaceLocation": "Jeddah",
+    "RaceLocation": "Jeddah, Saudi Arabia",
     "P1_UTC": 1638534600,
     "P2_UTC": 1638547200,
     "P3_UTC": 1638622800,
@@ -245,7 +245,7 @@
   {
     "Round": 23,
     "RaceName": "Formula 1 Abu Dhabi Grand Prix 2021",
-    "RaceLocation": "Abu Dhabi",
+    "RaceLocation": "Abu Dhabi, United Arab Emirates",
     "P1_UTC": 1639128600,
     "P2_UTC": 1639141200,
     "P3_UTC": 1639216800,
