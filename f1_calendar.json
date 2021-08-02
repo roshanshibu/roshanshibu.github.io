@@ -137,9 +137,9 @@
   "lastRaceResults": {
     "P1_DRIVER_SHORT": "OCO",
     "P1_DRIVER_NUMBER": 31,
-    "P1_DRIVER_COLOR": "#006fba",
+    "P1_DRIVER_COLOR": "#606060",
     "P2_DRIVER_SHORT": "VET",
-    "P2_DRIVER_NUMBER": "DSQ",
+    "P2_DRIVER_NUMBER": "DQ",
     "P2_DRIVER_COLOR": "#349d79",
     "P2_DRIVER_DELTA": "+1.859s",
     "P3_DRIVER_SHORT": "HAM",
