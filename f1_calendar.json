@@ -1,31 +1,6 @@
 {
   "schedule": [
   {
-    "Round": 10,
-    "RaceName": "Formula 1 Pirelli British Grand Prix 2021",
-    "RaceLocation": "Silverstone, United Kingdom",
-    "P1_UTC": 1626442200,
-    "P2_UTC": 1626454800,
-    "P2_ALT": "Qualifying",
-    "P3_UTC": 1626519600,
-    "P3_ALT": "Practice 2",
-    "QUALI_UTC": 1626535800,
-    "QUALI_ALT": "Sprint\nQualifying",
-    "RACE_UTC": 1626616800,
-    "FLAG_URL": "https://f1calendar-312206.web.app/flags/gb.png"
-  },
-  {
-    "Round": 11,
-    "RaceName": "Formula 1 Magyar Nagydíj 2021",
-    "RaceLocation": "Mogyoród, Hungary",
-    "P1_UTC": 1627637400,
-    "P2_UTC": 1627650000,
-    "P3_UTC": 1627725600,
-    "QUALI_UTC": 1627736400,
-    "RACE_UTC": 1627822800,
-    "FLAG_URL": "https://f1calendar-312206.web.app/flags/hu.png"
-  },
-  {
     "Round": 12,
     "RaceName": "Formula 1 Rolex Belgian Grand Prix 2021",
     "RaceLocation": "Stavelot, Belgium",
@@ -160,17 +135,17 @@
   ],
 
   "lastRaceResults": {
-    "P1_DRIVER_SHORT": "VER",
-    "P1_DRIVER_NUMBER": 33,
-    "P1_DRIVER_COLOR": "#4f4ce9",
-    "P2_DRIVER_SHORT": "BOT",
-    "P2_DRIVER_NUMBER": 77,
-    "P2_DRIVER_COLOR": "#25b8b2",
-    "P2_DRIVER_DELTA": "+17.973s",
-    "P3_DRIVER_SHORT": "NOR",
-    "P3_DRIVER_NUMBER": 4,
-    "P3_DRIVER_COLOR": "#ff9800",
-    "P3_DRIVER_DELTA": "+20.019s",
-    "LAST_RACE_COUNTRY": "Austria"
+    "P1_DRIVER_SHORT": "OCO",
+    "P1_DRIVER_NUMBER": 31,
+    "P1_DRIVER_COLOR": "#006fba",
+    "P2_DRIVER_SHORT": "VET",
+    "P2_DRIVER_NUMBER": "DSQ",
+    "P2_DRIVER_COLOR": "#349d79",
+    "P2_DRIVER_DELTA": "+1.859s",
+    "P3_DRIVER_SHORT": "HAM",
+    "P3_DRIVER_NUMBER": 44,
+    "P3_DRIVER_COLOR": "#25b8b2",
+    "P3_DRIVER_DELTA": "+2.736s",
+    "LAST_RACE_COUNTRY": "Hungary"
   }
 }
