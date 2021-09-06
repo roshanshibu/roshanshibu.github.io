@@ -1,0 +1,390 @@
+{
+	"teams": [
+		{
+			"Position": 1,
+			"ID": "MRC",
+			"TeamNameShort": "Mercedes",
+			"PowerUnit": "Mercedes",
+			"TeamChief": "Toto Wolff",
+			"Driver1": "Lewis Hamilton",
+			"Driver2": "Valtteri Bottas",
+			"CountryCode": "de",
+			"Points": "344.5"
+		},
+		{
+			"Position": 2,
+			"ID": "RBL",
+			"TeamNameShort": "Red Bull",
+			"PowerUnit": "Honda",
+			"TeamChief": "Christian Horner",
+			"Driver1": "Max Verstappen",
+			"Driver2": "Sergio Pérez",
+			"CountryCode": "at",
+			"Points": "332.5"
+		},
+		{
+			"Position": 3,
+			"ID": "FER",
+			"TeamNameShort": "Ferrari",
+			"PowerUnit": "Ferrari",
+			"TeamChief": "Mattia Binotto",
+			"Driver1": "Charles Leclerc",
+			"Driver2": "Carlos Sainz",
+			"CountryCode": "it",
+			"Points": "181.5"
+		},
+		{
+			"Position": 4,
+			"ID": "MCL",
+			"TeamNameShort": "McLaren",
+			"PowerUnit": "Mercedes",
+			"TeamChief": "Andreas Seidl",
+			"Driver1": "Lando Norris",
+			"Driver2": "Daniel Ricciardo",
+			"CountryCode": "gb",
+			"Points": "170"
+		},
+		{
+			"Position": 5,
+			"ID": "ALP",
+			"TeamNameShort": "Alpine",
+			"PowerUnit": "Renault",
+			"TeamChief": "Davide Brivio",
+			"Driver1": "Fernando Alonso",
+			"Driver2": "Esteban Ocon",
+			"CountryCode": "fr",
+			"Points": "90"
+		},
+		{
+			"Position": 6,
+			"ID": "ALT",
+			"TeamNameShort": "AlphaTauri",
+			"PowerUnit": "Honda",
+			"TeamChief": "Franz Tost",
+			"Driver1": "Pierre Gasly",
+			"Driver2": "Yuki Tsunoda",
+			"CountryCode": "it",
+			"Points": "84"
+		},
+		{
+			"Position": 7,
+			"ID": "AMR",
+			"TeamNameShort": "Aston Martin",
+			"PowerUnit": "Mercedes",
+			"TeamChief": "Otmar Szafnauer",
+			"Driver1": "Sebastian Vettel",
+			"Driver2": "Lance Stroll",
+			"CountryCode": "gb",
+			"Points": "53"
+		},
+		{
+			"Position": 8,
+			"ID": "WIL",
+			"TeamNameShort": "Williams",
+			"PowerUnit": "Mercedes",
+			"TeamChief": "Simon Roberts",
+			"Driver1": "George Russell",
+			"Driver2": "Nicholas Latifi",
+			"CountryCode": "gb",
+			"Points": "20"
+		},
+		{
+			"Position": 9,
+			"ID": "ALR",
+			"TeamNameShort": "Alfa Romeo Racing",
+			"PowerUnit": "Ferrari",
+			"TeamChief": "Frédéric Vasseur",
+			"Driver1": "Kimi Räikkönen",
+			"Driver2": "Robert Kubica",
+			"CountryCode": "ch",
+			"Points": "3"
+		},
+		{
+			"Position": 10,
+			"ID": "HAS",
+			"TeamNameShort": "Haas",
+			"PowerUnit": "Ferrari",
+			"TeamChief": "Guenther Steiner",
+			"Driver1": "Mick Schumacher",
+			"Driver2": "Nikita Mazepin",
+			"CountryCode": "us",
+			"Points": "0"
+		}
+	],
+	"drivers": [
+		{
+			"Position": 1,
+			"ID": "VER",
+			"ColorHex": "#3f3be8",
+			"Firstname": "Max",
+			"Lastname": "Verstappen",
+			"CountryCode": "nl",
+			"TeamId": "RBL",
+			"Points": "224.5",
+			"Stat1": "17 Wins",
+			"Stat2": "52 Podiums"
+		},
+		{
+			"Position": 2,
+			"ID": "HAM",
+			"ColorHex": "#25b8b2",
+			"Firstname": "Lewis",
+			"Lastname": "Hamilton",
+			"CountryCode": "gb",
+			"TeamId": "MRC",
+			"Points": "221.5",
+			"Stat1": "7 Championships",
+			"Stat2": "99 Wins"
+		},
+		{
+			"Position": 3,
+			"ID": "BOT",
+			"ColorHex": "#25b8b2",
+			"Firstname": "Valtteri",
+			"Lastname": "Bottas",
+			"CountryCode": "fn",
+			"TeamId": "MRC",
+			"Points": "123",
+			"Stat1": "9 Wins",
+			"Stat2": "63 Podiums"
+		},
+		{
+			"Position": 4,
+			"ID": "NOR",
+			"ColorHex": "#ff9800",
+			"Firstname": "Lando",
+			"Lastname": "Norris",
+			"CountryCode": "gb",
+			"TeamId": "MCL",
+			"Points": "114",
+			"Stat1": "Highest Finish - 3(x4)",
+			"Stat2": "4 Podiums"
+		},
+		{
+			"Position": 5,
+			"ID": "PER",
+			"ColorHex": "#3f3be8",
+			"Firstname": "Sergio",
+			"Lastname": "Pérez",
+			"CountryCode": "mx",
+			"TeamId": "RBL",
+			"Points": "108",
+			"Stat1": "2 Wins",
+			"Stat2": "12 Podiums"
+		},
+		{
+			"Position": 6,
+			"ID": "LEC",
+			"ColorHex": "#e43737",
+			"Firstname": "Charles",
+			"Lastname": "Leclerc",
+			"CountryCode": "mc",
+			"TeamId": "FER",
+			"Points": "92",
+			"Stat1": "2 Wins",
+			"Stat2": "13 Podiums"
+		},
+		{
+			"Position": 7,
+			"ID": "SAI",
+			"ColorHex": "#e43737",
+			"Firstname": "Carlos",
+			"Lastname": "Sainz",
+			"CountryCode": "es",
+			"TeamId": "FER",
+			"Points": "89.5",
+			"Stat1": "Highest Finish - 2(x2)",
+			"Stat2": "4 Podiums"
+		},
+		{
+			"Position": 8,
+			"ID": "GAS",
+			"ColorHex": "#001429",
+			"Firstname": "Pierre",
+			"Lastname": "Gasly",
+			"CountryCode": "fr",
+			"TeamId": "ALT",
+			"Points": "66",
+			"Stat1": "1 Win",
+			"Stat2": "3 Podiums"
+		},
+		{
+			"Position": 9,
+			"ID": "RIC",
+			"ColorHex": "#ff9800",
+			"Firstname": "Daniel",
+			"Lastname": "Ricciardo",
+			"CountryCode": "au",
+			"TeamId": "MCL",
+			"Points": "56",
+			"Stat1": "7 Wins",
+			"Stat2": "31 Podiums"
+		},
+		{
+			"Position": 10,
+			"ID": "ALO",
+			"ColorHex": "#0090ff",
+			"Firstname": "Fernando",
+			"Lastname": "Alonso",
+			"CountryCode": "es",
+			"TeamId": "ALP",
+			"Points": "46",
+			"Stat1": "2 Championships",
+			"Stat2": "32 Wins"
+		},
+		{
+			"Position": 11,
+			"ID": "OCO",
+			"ColorHex": "#0090ff",
+			"Firstname": "Esteban",
+			"Lastname": "Ocon",
+			"CountryCode": "fr",
+			"TeamId": "ALP",
+			"Points": "44",
+			"Stat1": "1 Win",
+			"Stat2": "2 Podiums"
+		},
+		{
+			"Position": 12,
+			"ID": "VET",
+			"ColorHex": "#349d79",
+			"Firstname": "Sebastian",
+			"Lastname": "Vettel",
+			"CountryCode": "de",
+			"TeamId": "AMR",
+			"Points": "35",
+			"Stat1": "4 Championships",
+			"Stat2": "53 Wins"
+		},
+		{
+			"Position": 13,
+			"ID": "TSU",
+			"ColorHex": "#001429",
+			"Firstname": "Yuki",
+			"Lastname": "Tsunoda",
+			"CountryCode": "jp",
+			"TeamId": "ALT",
+			"Points": "18",
+			"Stat1": "Highest Finish - 6(x1)",
+			"Stat2": "13 Race Entries"
+		},
+		{
+			"Position": 14,
+			"ID": "STR",
+			"ColorHex": "#349d79",
+			"Firstname": "Lance",
+			"Lastname": "Stroll",
+			"CountryCode": "ca",
+			"TeamId": "AMR",
+			"Points": "18",
+			"Stat1": "Highest Finish - 3(x3)",
+			"Stat2": "3 Podiums"
+		},
+		{
+			"Position": 15,
+			"ID": "RUS",
+			"ColorHex": "#005aff",
+			"Firstname": "George",
+			"Lastname": "Russell",
+			"CountryCode": "gb",
+			"TeamId": "WIL",
+			"Points": "13",
+			"Stat1": "Highest Finish - 2(x1)",
+			"Stat2": "1 Podium"
+		},
+		{
+			"Position": 16,
+			"ID": "LAT",
+			"ColorHex": "#005aff",
+			"Firstname": "Nicholas",
+			"Lastname": "Latifi",
+			"CountryCode": "ca",
+			"TeamId": "WIL",
+			"Points": "7",
+			"Stat1": "Highest Finish - 7(x1)",
+			"Stat2": "30 Race Entries"
+		},
+		{
+			"Position": 17,
+			"ID": "RAI",
+			"ColorHex": "#b60400",
+			"Firstname": "Kimi",
+			"Lastname": "Räikkönen",
+			"CountryCode": "fn",
+			"TeamId": "ALR",
+			"Points": "2",
+			"Stat1": "1 Championship",
+			"Stat2": "21 Wins"
+		},
+		{
+			"Position": 18,
+			"ID": "GIO",
+			"ColorHex": "#b60400",
+			"Firstname": "Antonio",
+			"Lastname": "Giovinazzi",
+			"CountryCode": "it",
+			"TeamId": "ALR",
+			"Points": "1",
+			"Stat1": "Highest Finish - 5(x1)",
+			"Stat2": "53 Race Entries"
+		},
+		{
+			"Position": 19,
+			"ID": "MSC",
+			"ColorHex": "#ffffff",
+			"Firstname": "Mick",
+			"Lastname": "Schumacher",
+			"CountryCode": "de",
+			"TeamId": "HAS",
+			"Points": "0",
+			"Stat1": "Highest Finish - 12(x1)",
+			"Stat2": "13 Race Entries"
+		},
+		{
+			"Position": 20,
+			"ID": "MAZ",
+			"ColorHex": "#ffffff",
+			"Firstname": "Nikita",
+			"Lastname": "Mazepin",
+			"CountryCode": "ru",
+			"TeamId": "HAS",
+			"Points": "0",
+			"Stat1": "Highest Finish - 14(x2)",
+			"Stat2": "13 Race Entries"
+		},
+		{
+			"Position": 21,
+			"ID": "KUB",
+			"ColorHex": "#b60400",
+			"Firstname": "Robert",
+			"Lastname": "Kubica",
+			"CountryCode": "po",
+			"TeamId": "ALR",
+			"Points": "0",
+			"Stat1": "1 Win",
+			"Stat2": "12 Podiums"
+		}
+	],
+	"urls": [
+		{
+			"HeadshotUrl": "https://f1calendar-312206.web.app/drivers/h_DRIVERID_.png",
+			"CelebrationUrl": "https://f1calendar-312206.web.app/drivers/c_DRIVERID_.png",
+			"FlagUrl": "https://f1calendar-312206.web.app/flags/_COUNTRYID_.png",
+			"TeamLogoUrl": "https://f1calendar-312206.web.app/team_logos/_TEAMID_.png"
+		}
+	],
+	"colors": [
+		{
+			"MRC": "#25b8b2",
+			"RBL": "#3f3be8",
+			"MCL": "#ff9800",
+			"FER": "#e43737",
+			"ALT": "#001429",
+			"AMR": "#349d79",
+			"ALR": "#b60400",
+			"ALP": "#0090ff",
+			"WIL": "#005aff",
+			"HAS": "#ffffff"
+		}
+	]
+}
