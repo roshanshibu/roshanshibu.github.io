@@ -20,7 +20,7 @@
     "P3_UTC": 1639213200,
     "QUALI_UTC": 1639224000,
     "RACE_UTC": 1639310400,
-    "FLAG_URL": "https://f1calendar-312206.web.app/flags/fr.png"
+    "FLAG_URL": "https://f1calendar-312206.web.app/flags/ae.png"
   },
   {
     "Round": 23,
@@ -32,6 +32,17 @@
     "QUALI_UTC": 1647702000,
     "RACE_UTC": 1647788400,
     "FLAG_URL": "https://f1calendar-312206.web.app/flags/bh.png"
+  },
+  {
+    "Round": 24,
+    "RaceName": "Formula 1 Saudi Arabian Grand Prix 2022",
+    "RaceLocation": "Jeddah, Saudi Arabia",
+    "P1_UTC": 1650965400,
+    "P2_UTC": 1648220400,
+    "P3_UTC": 1648296000,
+    "QUALI_UTC": 1648306800,
+    "RACE_UTC": 1648393200,
+    "FLAG_URL": "https://f1calendar-312206.web.app/flags/sa.png"
   }
   ],
 
