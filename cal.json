@@ -10,6 +10,17 @@
    "QUALI_UTC": 1678028300,
    "RACE_UTC": 1678028400,
    "FLAG_URL": "https://f1calendar-312206.web.app/flags/bh.png"
+  },
+  {
+   "Round": 2,
+   "RaceName": "Formula 1 Bahrain Grand Prix",
+   "RaceLocation": "Sakhir",
+   "P1_UTC": 1678039000,
+   "P2_UTC": 1678045100,
+   "P3_UTC": 1678066200,
+   "QUALI_UTC": 1678076300,
+   "RACE_UTC": 1678094400,
+   "FLAG_URL": "https://f1calendar-312206.web.app/flags/bh.png"
   }
   ],
 
