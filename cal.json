@@ -1,121 +1,30 @@
 {
  "schedule": [
   {
-   "Round": 14,
-   "RaceName": "Formula 1 Belgian Grand Prix",
-   "RaceLocation": "Stavelot",
-   "P1_UTC": 1661515200,
-   "P2_UTC": 1661526000,
-   "P3_UTC": 1661598000,
-   "QUALI_UTC": 1661608800,
-   "RACE_UTC": 1661691600,
-   "FLAG_URL": "https://f1calendar-312206.web.app/flags/be.png"
-  },
-  {
-   "Round": 15,
-   "RaceName": "Formula 1 Dutch Grand Prix",
-   "RaceLocation": "Zandvoort, Netherlands",
-   "P1_UTC": 1662120000,
-   "P2_UTC": 1662130800,
-   "P3_UTC": 1662202800,
-   "QUALI_UTC": 1662213600,
-   "RACE_UTC": 1662296400,
-   "FLAG_URL": "https://f1calendar-312206.web.app/flags/nl.png"
-  },
-  {
-   "Round": 16,
-   "RaceName": "Formula 1 Gran Premio D’Italia",
-   "RaceLocation": "Monza, Italy",
-   "P1_UTC": 1662724800,
-   "P2_UTC": 1662735600,
-   "P3_UTC": 1662807600,
-   "QUALI_UTC": 1662818400,
-   "RACE_UTC": 1662901200,
-   "FLAG_URL": "https://f1calendar-312206.web.app/flags/it.png"
-  },
-  {
-   "Round": 17,
-   "RaceName": "Formula 1 Singapore Grand Prix",
-   "RaceLocation": "Marina Bay",
-   "P1_UTC": 1664532000,
-   "P2_UTC": 1664542800,
-   "P3_UTC": 1664618400,
-   "QUALI_UTC": 1664629200,
-   "RACE_UTC": 1664712000,
-   "FLAG_URL": "https://f1calendar-312206.web.app/flags/sg.png"
-  },
-  {
-   "Round": 18,
-   "RaceName": "Formula 1 Japanese Grand Prix",
-   "RaceLocation": "Suzuka",
-   "P1_UTC": 1665115200,
-   "P2_UTC": 1665126000,
-   "P3_UTC": 1665201600,
-   "QUALI_UTC": 1665212400,
-   "RACE_UTC": 1665291600,
-   "FLAG_URL": "https://f1calendar-312206.web.app/flags/jp.png"
-  },
-  {
-   "Round": 19,
-   "RaceName": "Formula 1 United States Grand Prix",
-   "RaceLocation": "Austin",
-   "P1_UTC": 1666378800,
-   "P2_UTC": 1666389600,
-   "P3_UTC": 1666465200,
-   "QUALI_UTC": 1666476000,
-   "RACE_UTC": 1666551600,
-   "FLAG_URL": "https://f1calendar-312206.web.app/flags/us.png"
-  },
-  {
-   "Round": 20,
-   "RaceName": "Formula 1 Gran Premio De La Ciudad De México",
-   "RaceLocation": "Mexico City",
-   "P1_UTC": 1666980000,
-   "P2_UTC": 1666990800,
-   "P3_UTC": 1667062800,
-   "QUALI_UTC": 1667073600,
-   "RACE_UTC": 1667160000,
-   "FLAG_URL": "https://f1calendar-312206.web.app/flags/mx.png"
-  },
-  {
-   "Round": 21,
-   "RaceName": "Formula 1 Grande Prêmio De São Paulo",
-   "RaceLocation": "São Paulo, Brazil",
-   "P1_UTC": 1668180600,
-   "P2_UTC": 1668193200,
-   "P2_ALT": "Qualifying",
-   "P3_UTC": 1668267000,
-   "P3_ALT": "Practice 2",
-   "QUALI_UTC": 1668281400,
-   "QUALI_ALT": "Sprint",
-   "RACE_UTC": 1668362400,
-   "FLAG_URL": "https://f1calendar-312206.web.app/flags/br.png"
-  },
-  {
-   "Round": 22,
-   "RaceName": "Formula 1 Abu Dhabi Grand Prix",
-   "RaceLocation": "Yas Island, UAE",
-   "P1_UTC": 1668765600,
-   "P2_UTC": 1668776400,
-   "P3_UTC": 1668855600,
-   "QUALI_UTC": 1668866400,
-   "RACE_UTC": 1668949200,
-   "FLAG_URL": "https://f1calendar-312206.web.app/flags/ae.png"
+   "Round": 1,
+   "RaceName": "Formula 1 Bahrain Grand Prix",
+   "RaceLocation": "Sakhir",
+   "P1_UTC": 1678028000,
+   "P2_UTC": 1678028100,
+   "P3_UTC": 1678028200,
+   "QUALI_UTC": 1678028300,
+   "RACE_UTC": 1678028400,
+   "FLAG_URL": "https://f1calendar-312206.web.app/flags/bh.png"
   }
   ],
 
   "lastRaceResults": {
-    "P1_DRIVER_SHORT": "VER",
-    "P1_DRIVER_NUMBER": 1,
-    "P1_DRIVER_COLOR": "#3f3be8",
+    "P1_DRIVER_SHORT": "RUS",
+    "P1_DRIVER_NUMBER": 63,
+    "P1_DRIVER_COLOR": "#25b8b2",
     "P2_DRIVER_SHORT": "HAM",
     "P2_DRIVER_NUMBER": 44,
     "P2_DRIVER_COLOR": "#25b8b2",
-    "P2_DRIVER_DELTA": "+7.834s",
-    "P3_DRIVER_SHORT": "RUS",
-    "P3_DRIVER_NUMBER": 63,
-    "P3_DRIVER_COLOR": "#25b8b2",
-    "P3_DRIVER_DELTA": "+12.337s",
-    "LAST_RACE_COUNTRY": "Hungary"
+    "P2_DRIVER_DELTA": "+1.529s",
+    "P3_DRIVER_SHORT": "SAI",
+    "P3_DRIVER_NUMBER": 55,
+    "P3_DRIVER_COLOR": "#e43737",
+    "P3_DRIVER_DELTA": "+4.051s",
+    "LAST_RACE_COUNTRY": "Brazil"
   }
 }
