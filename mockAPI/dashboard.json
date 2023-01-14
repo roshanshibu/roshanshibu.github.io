@@ -1,0 +1,20 @@
+{
+	"totalBalance": 152035,
+	"totalIncome": 1256,
+	"totalExpense": 458,
+    "currency": "₹",
+	"top3Categories": [
+		{
+			"Name": "Electronics",
+			"Percent": 26
+		},
+		{
+			"Name": "Food & Drink",
+			"Percent": 19
+		},
+		{
+			"Name": "Home",
+			"Percent": 43
+		}
+	]
+}
