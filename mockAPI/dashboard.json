@@ -13,13 +13,13 @@
 		{
 			"Name": "Home",
 			"Percent": 26,
-			"Icon": "food",
+			"Icon": "home",
 			"Color": "#F86624"
 		},
 		{
 			"Name": "Food & Drink",
 			"Percent": 19,
-			"Icon": "home",
+			"Icon": "food",
 			"Color": "#EA3546"
 		},
 		{
