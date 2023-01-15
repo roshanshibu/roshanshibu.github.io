@@ -6,19 +6,19 @@
 	"top3Categories": [
 		{
 			"Name": "Electronics",
-			"Percent": 26,
+			"Percent": 43,
 			"Icon": "electronics",
 			"Color": "#F9C80E"
 		},
 		{
-			"Name": "Food & Drink",
-			"Percent": 19,
+			"Name": "Home",
+			"Percent": 26,
 			"Icon": "food",
 			"Color": "#F86624"
 		},
 		{
-			"Name": "Home",
-			"Percent": 43,
+			"Name": "Food & Drink",
+			"Percent": 19,
 			"Icon": "home",
 			"Color": "#EA3546"
 		},
