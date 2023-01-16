@@ -3,22 +3,22 @@
 		{
 			"name" : "Federal Bank",
 			"type" : "Checking",
-			"balance" : 12485 
+			"balance" : "₹12485" 
 		},
 		{
 			"name" : "South Indian Bank",
 			"type" : "Savings",
-			"balance" : 568547.10 
+			"balance" : "₹568547.10" 
 		},
 		{
 			"name" : "Mutual Funds",
 			"type" : "Investment",
-			"balance" : 147965.50
+			"balance" : "₹147965.50"
 		},
 		{
 			"name" : "PNB",
 			"type" : "Loan",
-			"balance" : -45800 
+			"balance" : " ₹-45800"
 		}
 	]
 }
