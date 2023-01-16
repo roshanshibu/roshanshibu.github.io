@@ -1,9 +1,8 @@
 {
-	"totalBalance": 152035,
-	"totalIncome": 1256,
-	"totalExpense": 458,
-    	"currency": "₹",
-	"top3Categories": [
+	"totalBalance": "₹ 152035",
+	"totalIncome": "₹ 1256",
+	"totalExpense": "₹ 458",
+    	"top3Categories": [
 		{
 			"Name": "Electronics",
 			"Percent": 43,
