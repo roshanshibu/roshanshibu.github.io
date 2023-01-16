@@ -3,25 +3,25 @@
 		{
 			"name" : "Federal Bank",
 			"type" : "Checking",
-			"balance" : "₹12485",
+			"balance" : "₹ 12,485",
 			"color" : "#0EC1F9"
 		},
 		{
 			"name" : "South Indian Bank",
 			"type" : "Savings",
-			"balance" : "₹568547.10",
+			"balance" : "₹ 568,547.10",
 			"color" : "#F9380E"
 		},
 		{
 			"name" : "Mutual Funds",
 			"type" : "Investment",
-			"balance" : "₹147965.50",
+			"balance" : "₹ 147,965.50",
 			"color" : "#3ECACA"
 		},
 		{
 			"name" : "PNB",
 			"type" : "Loan",
-			"balance" : "₹-45800",
+			"balance" : "₹ -45,800",
 			"color" : "#E261E4"
 		}
 	]
