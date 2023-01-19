@@ -1,24 +1,28 @@
 {
 	"accounts": [
 		{
+			"id" : "1",
 			"name" : "Federal Bank",
 			"type" : "Checking",
 			"balance" : "₹ 12,485",
 			"color" : "#0EC1F9"
 		},
-		{
+		{	
+			"id" : "2",
 			"name" : "South Indian Bank",
 			"type" : "Savings",
 			"balance" : "₹ 568,547.10",
 			"color" : "#F9380E"
 		},
-		{
+		{	
+			"id" : "3",
 			"name" : "Mutual Funds",
 			"type" : "Investment",
 			"balance" : "₹ 147,965.50",
 			"color" : "#3ECACA"
 		},
 		{
+			"id" : "4",
 			"name" : "PNB",
 			"type" : "Loan",
 			"balance" : "₹ -45,800",
