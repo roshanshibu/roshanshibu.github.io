@@ -1,0 +1,34 @@
+{
+	"categories": [
+		{
+			"income" : [
+        {
+          "id" : "1",
+          "name" : "Salary",
+          "icon" : "salary",
+          "userid" : ""
+        },
+        {
+          "id" : "2",
+          "name" : "Bank Interest",
+          "icon" : "bank_interest",
+          "userid" : ""
+        } 
+      ],
+      "expense" : [
+        {
+          "id" : "3",
+          "name" : "Electronics",
+          "icon" : "electronics",
+          "userid" : ""
+        },
+        {
+          "id" : "4",
+          "name" : "Family",
+          "icon" : "family",
+          "userid" : ""
+        }
+      ]
+		}
+  ]
+}
