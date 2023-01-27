@@ -4,7 +4,7 @@
                     [
                         {
                             "icon": "electronics",
-                            "color": "#f85931",
+                            "color": "#29b6f6",
                             "description": "Game controller",
                             "account": "Iron Bank",
                             "category": "Electronics",
@@ -13,7 +13,7 @@
                         },
                         {
                             "icon": "home",
-                            "color": "#ce1836",
+                            "color": "#fbc02d",
                             "description": "WiFi Bill",
                             "account": "Neon",
                             "category": "Home",
@@ -25,7 +25,7 @@
                     [
                         {
                             "icon": "family",
-                            "color": "#009989",
+                            "color": "#757575",
                             "description": "Mom's gift",
                             "account": "Copper Bank",
                             "category": "Family",
@@ -34,7 +34,7 @@
                         },
                         {
                             "icon": "entertainment",
-                            "color": "#00a0b0",
+                            "color": "#e91e63",
                             "description": "Karting",
                             "account": "Neon",
                             "category": "Entertainment",
@@ -43,7 +43,7 @@
                         },
                         {
                             "icon": "home",
-                            "color": "#ce1836",
+                            "color": "#fbc02d",
                             "description": "Electricity Bill",
                             "account": "Neon",
                             "category": "Home",
@@ -55,7 +55,7 @@
                     [
                         {
                             "icon": "salary",
-                            "color": "#519548",
+                            "color": "#26a69a",
                             "description": "Salary",
                             "account": "Iron Bank",
                             "category": "Salary",
@@ -64,7 +64,7 @@
                         },
                         {
                             "icon": "entertainment",
-                            "color": "#00a0b0",
+                            "color": "#e91e63",
                             "description": "Netflix",
                             "account": "Neon",
                             "category": "Entertainment",
@@ -73,7 +73,7 @@
                         },
                         {
                             "icon": "transportation",
-                            "color": "#aee239",
+                            "color": "#4caf50",
                             "description": "Petrol",
                             "account": "Copper Bank",
                             "category": "Transportation",
