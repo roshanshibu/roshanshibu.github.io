@@ -70,6 +70,15 @@
                             "category": "Entertainment",
                             "amount": 5.25,
                             "type": "Expense"
+                        },
+                        {
+                            "icon": "transportation",
+                            "color": "#F86624",
+                            "description": "Petrol",
+                            "account": "Copper Bank",
+                            "category": "Transportation",
+                            "amount": 10,
+                            "type": "Expense"
                         }
                     ]
 }
