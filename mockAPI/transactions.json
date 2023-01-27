@@ -1,0 +1,75 @@
+{
+    "currency": "$",
+    "Sunday, 25" :   
+                    [
+                        {
+                            "icon": "electronics",
+                            "color": "#F9C80E",
+                            "description": "Game controller",
+                            "account": "Iron Bank",
+                            "category": "Electronics",
+                            "amount": 45.05,
+                            "type": "Expense"
+                        },
+                        {
+                            "icon": "home",
+                            "color": "#EA3546",
+                            "description": "WiFi Bill",
+                            "account": "Neon",
+                            "category": "Home",
+                            "amount": 20,
+                            "type": "Expense"
+                        }    
+                    ],
+    "Wednesday, 21" :   
+                    [
+                        {
+                            "icon": "family",
+                            "color": "#D751B1",
+                            "description": "Mom's gift",
+                            "account": "Copper Bank",
+                            "category": "Family",
+                            "amount": 12,
+                            "type": "Expense"
+                        },
+                        {
+                            "icon": "entertainment",
+                            "color": "#13A419",
+                            "description": "Karting",
+                            "account": "Neon",
+                            "category": "Entertainment",
+                            "amount": 16.5,
+                            "type": "Expense"
+                        },
+                        {
+                            "icon": "home",
+                            "color": "#EA3546",
+                            "description": "Electricity Bill",
+                            "account": "Neon",
+                            "category": "Home",
+                            "amount": 40,
+                            "type": "Expense"
+                        }    
+                    ],
+    "Monday, 23" :   
+                    [
+                        {
+                            "icon": "salary",
+                            "color": "#57E1C9",
+                            "description": "Salary",
+                            "account": "Iron Bank",
+                            "category": "Salary",
+                            "amount": 510,
+                            "type": "Income"
+                        },
+                        {
+                            "icon": "entertainment",
+                            "color": "#13A419",
+                            "description": "Netflix payement December",
+                            "account": "Neon",
+                            "category": "Entertainment",
+                            "amount": 5.25,
+                            "type": "Expense"
+                        }
+                    ]
+}
