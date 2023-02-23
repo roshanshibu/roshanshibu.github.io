@@ -79,7 +79,7 @@
   },
   {
    "Round": 8,
-   "RaceName": "Formula 1 Gran Premio De EspaÃ±a",
+		"RaceName": "Formula 1 Gran Premio De España",
    "RaceLocation": "Spain",
    "P1_UTC": 1685705400,
    "P2_UTC": 1685718000,
@@ -101,7 +101,7 @@
   },
   {
    "Round": 10,
-   "RaceName": "Formula 1 Grosser Preis Von Ã–sterreich",
+		"RaceName": "Formula 1 Grosser Preis Von Österreich",
    "RaceLocation": "Austria",
    "P1_UTC": 1688124600,
    "P2_UTC": 1688137200,
@@ -156,7 +156,7 @@
   },
   {
    "Round": 15,
-   "RaceName": "Formula 1 Gran Premio Dâ€™Italia",
+		"RaceName": "Formula 1 Gran Premio D’Italia",
    "RaceLocation": "Italy",
    "P1_UTC": 1693567800,
    "P2_UTC": 1693580400,
@@ -211,7 +211,7 @@
   },
   {
    "Round": 20,
-   "RaceName": "Formula 1 Gran Premio De La Ciudad De MÃ©xico",
+		"RaceName": "Formula 1 Gran Premio De La Ciudad De México",
    "RaceLocation": "Mexico",
    "P1_UTC": 1698431400,
    "P2_UTC": 1698444000,
@@ -222,7 +222,7 @@
   },
   {
    "Round": 21,
-   "RaceName": "Formula 1 Grande PrÃªmio De SÃ£o Paulo",
+		"RaceName": "Formula 1 Grande Prêmio De São Paulo",
    "RaceLocation": "Brazil",
    "P1_UTC": 1699021800,
    "P2_UTC": 1699034400,
