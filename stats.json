@@ -113,7 +113,7 @@
 	],
 	"drivers": [
 		{
-			"Position": 1,
+			"Position": 2,
 			"ID": "VER",
 			"ColorHex": "#3f3be8",
 			"Firstname": "Max",
@@ -126,7 +126,7 @@
 			"Wins": 2
 		},
 		{
-			"Position": 2,
+			"Position": 1,
 			"ID": "PER",
 			"ColorHex": "#3f3be8",
 			"Firstname": "Sergio",
